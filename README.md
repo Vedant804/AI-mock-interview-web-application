@@ -50,7 +50,7 @@ npm run dev
 ## Screenshots
 
 1 **User Authentication**
-!User Authentication(https://github.com/Vedant804/AI-mock-interview-web-application/blob/main/ai-mock-interviewer/public/ss1.png?raw=true)
+!User Authentication("https://github.com/Vedant804/AI-mock-interview-web-application/blob/main/ai-mock-interviewer/public/ss1.png?raw=true")
 
 2**Dashboard**
 !Dashboard()
