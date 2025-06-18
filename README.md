@@ -47,6 +47,24 @@ GEMINI_API_KEY=your_gemini_api_key
 npm run dev
 ```
 
+## Screenshots
+
+1 **User Authentication**
+!User Authentication()
+
+2**Dashboard**
+!Dashboard()
+
+3**Job Title Input**
+!Job Title Input()
+
+4**AI Question Generation**
+!AI Question Generation()
+
+5**Feedback Dashboard**
+!Feedback Dashboard()
+!Filler words detection()
+
 
 
 
