@@ -1,6 +1,6 @@
 # AI Mock Interview Web Application
 
-An intelligent platform designed to help users simulate and prepare for real-world job interviews. Built using **Gemini AI**, the application generates role-specific questions based on job descriptions, records user responses through webcam and microphone, and delivers insightful feedback using AI. It enhances both technical and communication skills through realistic mock interviews and performance tracking.
+An AI-powered solution designed to help users simulate and prepare for real-world job interviews. Built using **Gemini AI**, the application generates role-specific questions based on job descriptions, records user responses through webcam and microphone, and delivers insightful feedback using AI. It enhances both technical and communication skills through realistic mock interviews and performance tracking.
 
 ## Features
 
