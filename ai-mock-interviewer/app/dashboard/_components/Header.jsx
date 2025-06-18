@@ -1,6 +1,7 @@
 "use client"
 import { UserButton } from '@clerk/nextjs'
 import { usePathname } from 'next/navigation'
+import Link from 'next/link'
 import React, { useEffect } from 'react'
 
 function Header() {
@@ -14,13 +15,14 @@ function Header() {
         <ul className='hidden md:flex gap-6'>
             <li className={`hover:text-primary hover:font-bold transition-all cursor-pointer
             ${path=='/dashboard'&&'text-primary font-bold'}
-            `}>Dashboard</li>
+            `}>
+              <Link href="/dashboard">Dashboard</Link>
+            </li>
             <li className={`hover:text-primary hover:font-bold transition-all cursor-pointer
-            ${path=='/dashboard'&&'text-primary font-bold'}
-            `}>Questions</li>
-            <li className={`hover:text-primary hover:font-bold transition-all cursor-pointer
-            ${path=='/dashboard'&&'text-primary font-bold'}
-            `}>How it works?</li>
+            ${path=='/dashboard/how-it-works'&&'text-primary font-bold'}
+            `}>
+              <Link href="/dashboard/how-it-works">How it works?</Link>
+            </li>
         </ul>
         <UserButton/>
     </div>
