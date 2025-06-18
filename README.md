@@ -29,7 +29,7 @@ An intelligent platform designed to help users simulate and prepare for real-wor
 1. **Clone the repo**
    ```bash
    git clone https://github.com/Vedant804/AI-mock-interview-web-application.git
-   cd AI-mock-interview-web-application
+   cd ai-mock-interviewer
    
 2 **Install Dependencies**
    ```bash
