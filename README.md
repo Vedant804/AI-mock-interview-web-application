@@ -43,8 +43,9 @@ DATABASE_URL=your_postgresql_url
 GEMINI_API_KEY=your_gemini_api_key
 ```
 4 **Start the dev server**
-    ```bash
-    npm run dev
+   ```bash
+npm run dev
+```
 
 ---
 
