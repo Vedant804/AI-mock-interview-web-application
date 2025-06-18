@@ -49,23 +49,23 @@ npm run dev
 
 ## Screenshots
 
-1**User Authentication**
+1 **User Authentication**
 
 ![User Authentication](https://github.com/Vedant804/AI-mock-interview-web-application/blob/main/ai-mock-interviewer/public/ss1.png?raw=true)
 
-2**Dashboard**
+2 **Dashboard**
 
 ![Dashboard](https://github.com/Vedant804/AI-mock-interview-web-application/blob/main/ai-mock-interviewer/public/ss2.png?raw=true)
 
-3**Job Title Input**
+3 **Job Title Input**
 
 ![Job Title Input](https://github.com/Vedant804/AI-mock-interview-web-application/blob/main/ai-mock-interviewer/public/ss3.png?raw=true)
 
-4**AI Question Generation**
+4 **AI Question Generation**
 
 ![AI Question Generation](https://github.com/Vedant804/AI-mock-interview-web-application/blob/main/ai-mock-interviewer/public/ss4.png?raw=true)
 
-5**Feedback Dashboard**
+5 **Feedback Dashboard**
 
 ![Feedback Dashboard](https://github.com/Vedant804/AI-mock-interview-web-application/blob/main/ai-mock-interviewer/public/ss5.png?raw=true)
 
