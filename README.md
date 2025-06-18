@@ -47,29 +47,6 @@ GEMINI_API_KEY=your_gemini_api_key
 npm run dev
 ```
 
----
-
-## 📸 Screenshots
-
-### 🔹 Landing Page
-![Landing Page](./public/ss1.png)
-
-### 🔹 Sign-In / Authentication
-![Authentication](./public/ss2.png)
-
-### 🔹 Job Title Input
-![Job Input](./public/ss3.png)
-
-### 🔹 AI Question Generation
-![Question Generation](./public/ss4.png)
-
-### 🔹 Interview Recording Interface
-![Interview UI](./public/ss5.png)
-
-### 🔹 Feedback Dashboard
-![Feedback Dashboard](./public/ss6.png)
-
----
 
 
 
