@@ -3,7 +3,7 @@
 An AI-powered solution designed to help users simulate and prepare for real-world job interviews. Built using **Gemini AI**, the application generates role-specific questions based on job descriptions, records user responses through webcam and microphone, and delivers insightful feedback using AI. It enhances both technical and communication skills through realistic mock interviews and performance tracking.
 
 ## 🌐 Live Demo
-👉 [Try the App](https://ai-mock-interview-web-application-8-sand.vercel.app)
+👉 [Try the AI Mock Interviwer](https://ai-mock-interview-web-application-8-sand.vercel.app)
 
 ## Features
 
